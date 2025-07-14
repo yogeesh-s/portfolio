@@ -122,7 +122,7 @@ export default function Hero() {
             </p>
 
             <h1 className="text-3xl sm:text-4xl md:text-5xl font-montserrat font-bold text-[var(--color-text-primary)] leading-tight mb-5">
-              Hello, I'm <span className="text-[var(--color-primary)]">{HERO_CONTENT.name}</span><br />
+              Hello, I&apos;m <span className="text-[var(--color-primary)]">{HERO_CONTENT.name}</span><br />
               <span className="text-2xl sm:text-3xl md:text-4xl bg-gradient-to-r from-[var(--color-primary)] to-[var(--color-accent)] bg-clip-text text-transparent">{HERO_CONTENT.title}</span>
             </h1>
 

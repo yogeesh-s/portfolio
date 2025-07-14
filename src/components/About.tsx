@@ -35,13 +35,13 @@ export default function About() {
             viewport={{ once: true }}
           >
             <p className="text-base sm:text-lg text-[var(--color-text-secondary)] font-open-sans leading-relaxed mb-6">
-              I'm <span className="text-[var(--color-text-primary)] font-semibold">Yogeesh S</span>, a 
+              I&apos;m <span className="text-[var(--color-text-primary)] font-semibold">Yogeesh S</span>, a 
               dedicated full-stack software engineer with expertise in building scalable web applications. 
               My expertise spans across <strong>full-stack development</strong>, <strong>system design</strong>, and <strong>cloud technologies</strong>,
               with a passion for creating scalable, efficient solutions.
             </p>
             <p className="text-base sm:text-lg text-[var(--color-text-muted)] font-open-sans leading-relaxed">
-              I thrive on challenges that push the boundaries of what's possible with code.
+              I thrive on challenges that push the boundaries of what&apos;s possible with code.
               From architecting robust backend systems to crafting intuitive user interfaces, I bring ideas to life through technology.
             </p>
           </motion.div>

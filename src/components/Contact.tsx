@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { FaGithub, FaLinkedin, FaTwitter, FaEnvelope, FaPhone, FaMapMarkerAlt } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaTwitter, FaEnvelope, FaMapMarkerAlt } from 'react-icons/fa';
 
 export default function Contact() {
   return (
@@ -23,10 +23,10 @@ export default function Contact() {
           className="text-center mb-16"
         >
           <h2 className="text-4xl font-montserrat font-bold text-[var(--color-primary)] mb-4">
-            Let's Build Something Amazing
+            Let&apos;s Build Something Amazing
           </h2>
           <p className="text-[var(--color-text-secondary)] text-lg font-open-sans max-w-2xl mx-auto">
-            Ready to turn your ideas into reality? I'm always excited to discuss new opportunities and innovative projects.
+            Ready to turn your ideas into reality? I&apos;m always excited to discuss new opportunities and innovative projects.
           </p>
         </motion.div>
 

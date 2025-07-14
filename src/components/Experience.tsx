@@ -228,7 +228,7 @@ export default function Experience() {
           className="text-center mt-16"
         >
           <p className="text-[var(--color-text-secondary)] mb-6">
-            Interested in working together? Let's discuss your next project.
+            Interested in working together? Let&apos;s discuss your next project.
           </p>
           <motion.a
             href="#contact"
@@ -237,7 +237,7 @@ export default function Experience() {
             className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-[var(--color-primary)] to-[var(--color-accent)] text-white font-semibold rounded-xl shadow-lg hover:shadow-xl transition-all duration-300"
           >
             <FaBriefcase />
-            Let's Work Together
+            Let&apos;s Work Together
           </motion.a>
         </motion.div>
       </div>
