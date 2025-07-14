@@ -74,7 +74,7 @@ const merriweather = Merriweather({
 })
 
 export const metadata: Metadata = {
-  title: "portfolio",
+  title: "Portfolio",
   description: "A showcase of my web development projects and skills, featuring modern technologies and creative solutions"};
 
 export default function RootLayout({
