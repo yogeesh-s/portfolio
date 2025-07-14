@@ -103,7 +103,7 @@ export default function Navbar() {
             href="#contact"
             className="px-4 py-2 rounded-lg bg-button-bg hover:bg-button-bg-hover text-button-text text-sm font-semibold transition"
           >
-            Hire Me
+            Contact
           </Link>
         </div>
 
