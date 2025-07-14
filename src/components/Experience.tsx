@@ -110,7 +110,7 @@ export default function Experience() {
             Professional Journey
           </h2>
           <p className="text-[var(--color-text-secondary)] text-lg max-w-2xl mx-auto">
-5+ years of professional experience building scalable web applications and leading development teams
+1+ years of professional experience building scalable web applications and leading development teams
           </p>
         </motion.div>
 
