@@ -27,7 +27,7 @@ const experiences: ExperienceItem[] = [
       'Architecting and implementing enterprise-level solutions'
     ],
     technologies: ['React', 'Next.js', 'Django', 'PostgreSQL', 'TypeScript', 'Rest API'],
-    achievements: ['I worked on different projects including a full stack project with Next.js and Django',"Enitire onboarding journey of singapore lending and admin portal was built by me"]
+    achievements: ['I worked on different projects including a full stack project with Next.js and Django']
   },
   {
     title: 'Full Stack Developer Intern',
