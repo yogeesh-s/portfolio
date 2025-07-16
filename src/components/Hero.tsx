@@ -64,7 +64,7 @@ const HERO_CONTENT = {
   stats: {
     title: "At a Glance",
     items: [
-      "🎯 Computer Science Student",
+      "🎯 Software Engineer",
       "⚡ 1+ Years Experience", 
       "🏆 20+ Projects Delivered",
       "📍 Karnataka, India"

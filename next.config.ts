@@ -5,10 +5,10 @@ const nextConfig: NextConfig = {
     domains: ['images.unsplash.com'],
     unoptimized: true,
   },
-  // output: 'export',
-  // trailingSlash: true,
-  // basePath: '/portfolio',
-  // assetPrefix: '/portfolio',
+  output: 'export',
+  trailingSlash: true,
+  basePath: '/portfolio',
+  assetPrefix: '/portfolio',
 };
 
 export default nextConfig;
